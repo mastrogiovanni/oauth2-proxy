@@ -1,5 +1,7 @@
 package main
 
+// stocazzo
+
 import (
 	"fmt"
 	"os"
